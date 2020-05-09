@@ -1,4 +1,4 @@
-# lucifer1198.github.io
+# manoharmurali.github.io
 
 **_The repository contains the portfolio code. 
 More changes will be committed from time to time for your help._**
